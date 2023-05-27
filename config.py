@@ -21,7 +21,7 @@ SESSION = getenv("SESSION", None)
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Earn_without_investment01")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Earning_with_shivam_official")
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5242142514").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6025292625").split()))
 
 
 FAILED = "https://te.legra.ph/file/4c896584b592593c00aa8.jpg"
