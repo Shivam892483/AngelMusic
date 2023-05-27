@@ -60,7 +60,7 @@ async def ping_fallen(_, message: Message):
                     InlineKeyboardButton("❄ sᴜᴘᴘᴏʀᴛ ❄", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
                         "✨ sᴏᴜʀᴄᴇ ✨",
-                        url="https://te.legra.ph/file/d3cc723e62087d51b19f0.jpg",
+                        url="https://github.com/Shivam892483/AngelMusic",
                     ),
                 ],
             ]
