@@ -56,7 +56,7 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="☁️ sᴏᴜʀᴄᴇ ☁️", url="https://github.com/Shivam892483/AngelMusic"
+            text="☁️ sᴏᴜʀᴄᴇ ☁️", url="https://te.legra.ph/file/d3cc723e62087d51b19f0.jpg"
         ),
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
     ],
@@ -76,7 +76,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="☁️ sᴏᴜʀᴄᴇ ☁️", url="https://github.com/Shivam892483/AngelMusic"
+            text="☁️ sᴏᴜʀᴄᴇ ☁️", url="https://te.legra.ph/file/d3cc723e62087d51b19f0.jpg"
         ),
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
     ],
