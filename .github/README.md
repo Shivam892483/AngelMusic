@@ -8,7 +8,7 @@
   <img src="https://te.legra.ph/file/8e6104a7ea22d45ef08ef.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀɴɢᴇʟ ✘ ᴍᴜsɪᴄ](https://t.me/Angel_XMusic)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀɴɢᴇʟ ✘ ᴍᴜsɪᴄ](https://t.me/Angel_XMusicbot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
